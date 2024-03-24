@@ -1,0 +1,367 @@
+.navbar-brand img {
+    margin-right: 5px; 
+    height: 30px;
+    width: 100px;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #333; 
+    margin-left: 10px;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #007bff; 
+  }
+  
+  .containerone {
+    margin-top: 100px; 
+    height: 200px;
+    width: 450px;
+    margin-left: 50px;
+  }
+  
+  h1 {
+    color: blue; 
+    font-size: 2.5rem; 
+  }
+  
+  p {
+    color: grey; 
+    font-size: 1.2rem; 
+    margin-top: 10px; 
+    margin-top: 30px;
+  }
+  
+  .image {
+    margin-top: -300px;
+    margin-left: 500px;
+    width: 100px;
+  }
+  
+  .containerform {
+    text-align: center;
+    margin-top: -380px;
+    width: 450px;
+    margin-left: 50px;
+  }
+  
+  .containerform h1 {
+    font-size: 36px;
+    color: #333;
+  }
+  
+  .containerform p {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 30px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    margin-top: -115px;
+    margin-left: 450px;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
+  .containertwo {
+    margin-top: 300px;
+    text-align: center;
+    width: 700px;
+    margin-left: 300px;
+  }
+  
+  h2 {
+    color: black;
+  }
+ 
+.card-deck
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 50px; 
+    flex-direction:row;
+    height:200px;
+}
+
+.card {
+    width: 200px;
+    background-color: #f9f9f9;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    flex: 1; 
+    height:330px;
+}
+.card:hover
+{
+ background-color:#007bff;
+}
+  
+  .card-img-top {
+    width: 40%;
+    height:90px;
+    border-radius: 8px;
+    margin-left:90px;
+    background-color:lightslategray;
+  }
+  
+  .card-title {
+    color: #333;
+    font-size: 1.rem;
+  }
+  
+  .card-text {
+    color: #666;
+    font-size:0.8.rem
+  }
+  .card p
+  {
+    font-size:1rem;
+  }
+  .card-body {
+    padding: 20px;
+  }
+  .imagetwo
+  {
+    height:200px;
+    width:200px;
+  }
+  .new-container {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+  }
+  
+  .new-container .card-deck {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    margin-top: -100px;
+    margin-right:-600px;
+  }
+  
+  .new-container .card {
+    width: 200px; 
+    background-color: #f9f9f9;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    flex: 1;
+    height: 600px; 
+  }
+  
+  .new-container .card-title {
+    color: #333;
+    font-size: 1rem; 
+  }
+  
+  .new-container .card-text {
+    color: #666;
+  }
+  
+  .new-container .card-body {
+    padding: 10px;
+  }
+  .container-picture {
+    margin-top: 50px; /* Adjust margin as needed */
+  }
+  
+  .container-picture .row {
+    margin-bottom: 30px; /* Adjust margin between rows */
+  }
+  
+  .container-picture .col-md-4 {
+    text-align: center; /* Center content within each column */
+  }
+  
+  .container-picture img {
+    width:250px; 
+    max-width: 100%; 
+    border-radius: 8px; 
+    margin-bottom: 10px;
+    height:250px;
+  }
+  
+  .container-picture h3 {
+    font-size: 1rem; 
+    margin-bottom: 10px; 
+  }
+  
+  .container-picture p {
+    font-size: 1rem; 
+    color: #666;
+   margin-top:10px; 
+  }
+.container-contact
+{
+    margin-top: 50px;
+    text-align: center;
+    width: 700px;
+    margin-left: 300px;
+}
+.container-picturecontact
+{
+    margin-left:50px;
+}
+.container-picturecontact h3
+{
+   font-size:1.5rem; 
+}
+.container-picturecontact p{
+    margin-top:10px;
+    font-size:1rem;
+}
+.container-picturecontact button{
+    margin-top:-10px;
+    margin-left:-10px;
+}
+.form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  .error-message {
+    color: red;
+    font-size: 0.8rem;
+    margin-top: 5px;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+.container-contactinfo
+{
+    margin-top:-500px;
+    margin-left:500px;
+}
+.container-contactinfo button
+{
+    margin-top:10px;
+    margin-right:10px;
+}
+.footer {
+    background-color: darkslategrey;
+    padding: 50px 0;
+    text-align: center;
+    margin-top:20px;
+  }
+  
+  .footer p {
+    margin-bottom: 20px;
+  }
+  
+  .footer-links {
+    display: flex;
+    flex-wrap: wrap;
+   
+  }
+  
+  .footer-links a {
+    color: #007bff;
+    margin: 0 10px;
+    text-decoration: none;
+    margin-left:50px;
+  }
+  
+  .footer-menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left:350px;
+  }
+  
+  .footer-menu ul {
+    list-style-type: none;
+    margin: 0 20px;
+    padding: 0;
+    color:#ccc;
+  }
+  
+  .footer-menu ul li {
+    margin-bottom: 10px;
+  }
+  .container-fetch {
+   margin-top: 50px;
+   width:1000px;
+   margin-left:200px;
+    
+    background-color: lightgrey;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .container-fetch h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .container-fetch ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .container-fetch ul li {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .container-fetch ul li:last-child {
+    border-bottom: none;
+  }
+  
+  .container-fetch ul li strong {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .container-fetch ul li div {
+    flex: 1;
+    text-align: left;
+  }
+  
+  .container-fetch ul li div:first-child {
+    flex: 2;
+  }
+  
+  .container-fetch ul li div:last-child {
+    text-align: right;
+    color: #666;
+  }
+  
+  
+  .container-fetch:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .container-fetch ul li:hover {
+    background-color: #f0f0f0;
+  }
+  
+  
